@@ -25,7 +25,7 @@ This is a full-stack web application that empowers developers to:
 ## 🖼️ Screenshots
 
 ### App Flow
-![App Flow](Frontend/public/AppFlow.png)
+![App Flow](Frontend/public/AppFloww.png)
 
 ### Homepage Views
 ![Homepage](Frontend/public/demo1.png)
